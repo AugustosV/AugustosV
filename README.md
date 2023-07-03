@@ -1,6 +1,6 @@
 # Hi, I'm Augusto, Welcome. 
 
-- I am currently working on Front-End development 
+- I am currently working on Full-stack development 
 - I am currently studying Software development with agile methodologies
 - <b> Contact me on email: augustos100@live.com </b>
 
